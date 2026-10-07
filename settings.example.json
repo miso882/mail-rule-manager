@@ -1,0 +1,7 @@
+{
+  "timezone": "Europe/Paris",
+  "batch_size": 50,
+  "batch_pause": 5,
+  "request_delay": 0.35,
+  "retry_attempts": 10
+}
